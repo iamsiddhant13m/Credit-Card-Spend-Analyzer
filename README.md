@@ -1,3 +1,8 @@
+<img width="1180" height="666" alt="segmentation03" src="https://github.com/user-attachments/assets/3067f616-6298-45e8-88bc-b297b1e2c50f" />
+<img width="1186" height="667" alt="segmentation02" src="https://github.com/user-attachments/assets/2a7a6847-6957-412d-9494-bd2367c83011" />
+<img width="1181" height="660" alt="segmentation01" src="https://github.com/user-attachments/assets/dd391d77-2f11-4316-b18e-873bbe5cdcd3" />
+<img width="1162" height="642" alt="risk   insights " src="https://github.com/user-attachments/assets/dc87e878-5f0b-4d0f-9d51-48f3aaf41501" />
+<img width="1187" height="672" alt="overview" src="https://github.com/user-attachments/assets/73a37da2-58d0-493b-8fa8-b9fffd4afcb3" />
 # Credit Card Spend Analyzer 📊
 
 **End-to-End Business Analytics Dashboard**  
