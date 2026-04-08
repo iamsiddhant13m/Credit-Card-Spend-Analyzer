@@ -6,6 +6,10 @@
 <img width="1180" height="666" alt="segmentation03" src="https://github.com/user-attachments/assets/3067f616-6298-45e8-88bc-b297b1e2c50f" />
 4) Slicer
 <img width="1186" height="667" alt="segmentation02" src="https://github.com/user-attachments/assets/2a7a6847-6957-412d-9494-bd2367c83011" />
+5) Overview
+<img width="2157" height="885" alt="chart3_customer_value" src="https://github.com/user-attachments/assets/648f2257-5be1-49ba-b114-7ceaa27ce1aa" />
+<img width="2686" height="885" alt="chart2_segmentation" src="https://github.com/user-attachments/assets/d8da0776-70b7-473c-8ebc-6704c4e036b4" />
+<img width="2385" height="1840" alt="chart1_overview" src="https://github.com/user-attachments/assets/6d914382-2a43-4b60-a46c-527200be9862" />
 
 
 # Credit Card Spend Analyzer 📊
